@@ -18,7 +18,17 @@ Using JavaScript, create a function that saves the element, value, and id of the
 
 - The client can filter the data using only one criteria e.g. typing *"triangle"* in the *"Enter a Shape"* box and pressing *"Enter"*.
 
-![image](https://user-images.githubusercontent.com/91766276/150578306-8375726d-51e3-41af-8ce1-80781aa6f62d.png)
+![image](https://user-images.githubusercontent.com/91766276/150579783-80fd8c05-4770-4b9f-b960-5c7de33136e1.png)
+
+- The client can also filter by multiple criterias e.g. typing *"circle"* in the *"Enter a Shape"* box, *"ca"* for State, *"el cajon"* for City and pressing *"Enter"*.
+
+![image](https://user-images.githubusercontent.com/91766276/150579223-b17af986-ed66-43f2-b22d-abee490770b9.png)
+
+#### How to remove the filter:
+
+- To remove a filter, the client has to delete the input on the filter that he wants to remove and press *"Enter"*. E.g. Following the previous example, here I deleted the *"el cajon"* filter that was in the City criteria.
+
+![image](https://user-images.githubusercontent.com/91766276/150580337-69ffde0b-37ae-4e03-88a1-70c2eda75bb7.png)
 
 
 ## Summary
