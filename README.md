@@ -33,8 +33,9 @@ Using JavaScript, create a function that saves the element, value, and id of the
 
 ## Summary
 
+I found the website very user friendly with functional filters that allow the clients to interact with the table. Howevere, one drawback is that the filters are suitable if the criteria is spelled correctly, meaning it is case sensitive. It might not be always the case where the client inputs the search criteria withouth using lower case.
 
-
+I would recommend adding a solution that supports case-insensitivity and partial inputs, this way the filters will work even if the user types *"El cajon"* instead of *"el cajon"*. Achieving this recommendation will enchance the user experience with the fuctionality of the filters. Finally, I would also recommend adding a *"clear"* button on each  filter criteria and a *"clear all"* button. 
 
 
 
